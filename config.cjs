@@ -1,9 +1,9 @@
 module.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
-  "PREFIX": ".",
+  "PREFIX": "#",
   "AUTO_READ_STATUS": true,
   "MODE": "inbox",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "254791195553",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
